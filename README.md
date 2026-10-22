@@ -1,5 +1,7 @@
 # ChoreBloom
 
+> **[Open the live app](https://codearcade-ctrl.github.io/chorebloom/)** · [English version](https://codearcade-ctrl.github.io/chorebloom/en/)
+
 **Zet huishoudklusjes op een lijst en vink ze af wanneer ze klaar zijn.**
 
 ## Voor wie?
